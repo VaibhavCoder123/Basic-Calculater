@@ -1,0 +1,22 @@
+.text-center{
+    text-align: center;
+}
+.bg-lime{
+    background-color: lime;
+}
+.mx-auto{
+    margin:auto;
+}
+.m-w-30{
+    max-width: 35vw;
+    border-radius: 10px;
+}
+.flex{
+ display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
